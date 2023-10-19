@@ -1,3 +1,3 @@
 # apnacollege-demo 
 <br>
-Author- Sonali Gupta
+Author- Sonali (Apna College)
